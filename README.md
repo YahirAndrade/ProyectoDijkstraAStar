@@ -13,6 +13,9 @@ Este proyecto implementa y visualiza los algoritmos de búsqueda de caminos más
 -Registro paso a paso del recorrido y reconstrucción del camino final.
 
 #Tecnologías
+
 -Lenguaje: C++ (ISO C++17)
+
 -Visualización: Raylib
+
 -Estructura modular basada en clases: Node, Edge, Graph, Dijkstra, AStar, Visualizer.
